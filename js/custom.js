@@ -57,4 +57,4 @@ $('#carouselExampleIndicators').on('slid.bs.carousel', function (event) {
             'left': 'calc(100% - ' + 45 + 'px)'
         })
     }
-});
+});  

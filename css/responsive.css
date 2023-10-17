@@ -1,17 +1,18 @@
-/* @media (min-width:1500px) {
-    .gallery_section .gallery_container .gallery_bg {
+@media (min-width:1500px) {
+    .gallery_section .social_box .gallery_container .gallery_bg {
         max-width: 1500px;
         left: 10%;
+        
 
     }
 }
 
 @media (min-width:2000px) {
-    .gallery_section .gallery_container .gallery_bg {
+    .gallery_section .social_box .gallery_container .gallery_bg {
         left: 15%;
 
     }
-} */
+} 
 
 @media (max-width: 1260px) {}
 
